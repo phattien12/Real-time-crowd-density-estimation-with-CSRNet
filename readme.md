@@ -187,22 +187,6 @@ Visualization uses <code>matplotlib</code> with heatmap overlay.
 </ul>
 </div>
 
-<hr>
-
-<h2>💻 How to Run</h2>
-
-<pre>
-pip install torch torchvision opencv-python scipy tqdm h5py
-
-# Train
-python train.py
-
-# Test
-python test.py
-</pre>
-
-<hr>
-
 <h2>👨‍💻 Author - Phat - An Enthusiast in Computer Science</h2>
 
 <div class="card">
