@@ -2,63 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CSRNet Crowd Counting</title>
-  <style>
-    body {
-      font-family: "Segoe UI", sans-serif;
-      line-height: 1.6;
-      background: #0f172a;
-      color: #e2e8f0;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 1000px;
-      margin: auto;
-      padding: 40px;
-    }
-    h1, h2, h3 {
-      color: #38bdf8;
-    }
-    .badge {
-      display: inline-block;
-      background: #1e293b;
-      padding: 6px 10px;
-      border-radius: 8px;
-      margin-right: 5px;
-      font-size: 12px;
-    }
-    .card {
-      background: #1e293b;
-      padding: 20px;
-      border-radius: 12px;
-      margin-bottom: 20px;
-    }
-    code {
-      background: #020617;
-      padding: 4px 6px;
-      border-radius: 6px;
-      color: #38bdf8;
-    }
-    pre {
-      background: #020617;
-      padding: 15px;
-      border-radius: 10px;
-      overflow-x: auto;
-    }
-    .result {
-      background: #022c22;
-      padding: 15px;
-      border-left: 5px solid #22c55e;
-      border-radius: 8px;
-    }
-    .warning {
-      background: #3f1d1d;
-      padding: 15px;
-      border-left: 5px solid #ef4444;
-      border-radius: 8px;
-    }
-  </style>
 </head>
 <body>
 <div class="container">
